@@ -1,0 +1,2 @@
+-- This is a portfolio project developed with HTML, CSS, Vanilla JavaScript, Express Js.
+-- Run "npm start" to run the project.
